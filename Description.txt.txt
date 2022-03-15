@@ -1,0 +1,1 @@
+project using KMeans algorithm, seaborn,PCA and standardscaler
